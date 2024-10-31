@@ -42,5 +42,8 @@ app.use((err, req, res, next) => {
     })
 });
 
+// Set a default port if environment variable is not set
+const PORT = process.env.PORT || 3100;
+
 const http = require("http").createServer(app);
-http.listen(process.env.PORT, () => console.log(`Server running on port ${process.env.PORT}`));
+http.listen(PORT, '0.0.0.0', () => {console.log(`Server running on port ${PORT}`);});
