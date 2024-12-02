@@ -1,8 +1,8 @@
 /*
 Template Name: Steex - Admin & Dashboard Template
-Author: Themesbrand
-Website: https://Themesbrand.com/
-Contact: Themesbrand@gmail.com
+Author: raymond
+Website: https://raymond.com/
+Contact: raymond@gmail.com
 File: Two step verification Init Js File
 */
 

@@ -1,8 +1,8 @@
 /*
 Template Name: Steex - Admin & Dashboard Template
-Author: Themesbrand
-Website: https://Themesbrand.com/
-Contact: Themesbrand@gmail.comom
+Author: raymond
+Website: https://raymond.com/
+Contact: raymond@gmail.comom
 File: Radar Chart init js
 */
 

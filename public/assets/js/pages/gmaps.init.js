@@ -1,8 +1,8 @@
 /*
 Template Name: Admiria - Admin & Dashboard Template
-Author: Themesbrand
-Website: https://themesbrand.com/
-Contact: themesbrand@gmail.com
+Author: raymond
+Website: https://raymond.com/
+Contact: raymond@gmail.com
 File: gmaps init Js File
 */
 

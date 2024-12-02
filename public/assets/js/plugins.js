@@ -1,9 +1,9 @@
 /*
 Template Name: Steex - Admin & Dashboard Template
-Author: Themesbrand
+Author: raymond
 Version: 1.0.0
-Website: https://Themesbrand.com/
-Contact: Themesbrand@gmail.com
+Website: https://raymond.com/
+Contact: raymond@gmail.com
 File: Common Plugins Js File
 */
 

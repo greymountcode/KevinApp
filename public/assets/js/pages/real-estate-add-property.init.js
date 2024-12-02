@@ -1,8 +1,8 @@
 /*
 Template Name: Steex - Admin & Dashboard Template
-Author: Themesbrand
-Website: https://themesbrand.com/
-Contact: themesbrand@gmail.com
+Author: raymond
+Website: https://raymond.com/
+Contact: raymond@gmail.com
 File: real estate agent add property Init Js File
 */
 

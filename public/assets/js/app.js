@@ -1,9 +1,9 @@
 /*
 Template Name: Admiria - Admin & Dashboard Template
-Author: Themesbrand
+Author: raymond
 Version: 3.2.0
-Website: https://themesbrand.com/
-Contact: themesbrand@gmail.com
+Website: https://raymond.com/
+Contact: raymond@gmail.com
 File: Main Js File
 */
 

@@ -1,8 +1,8 @@
 /*
    Template Name: Steex - Admin & Dashboard Template
-   Author: Themesbrand
-   Website: https://Themesbrand.com/
-   Contact: Themesbrand@gmail.com
+   Author: raymond
+   Website: https://raymond.com/
+   Contact: raymond@gmail.com
    File: invoice list init js
 */
 
@@ -12,14 +12,14 @@ var Invoices = [
     {
         invoice_no: '24301901',
         logo_img: 'assets/images/logo-light.png',
-        customer: 'Themesbrand',
-        email: "themesbrand@steex.com",
+        customer: 'raymond',
+        email: "raymond@steex.com",
         createDate: "28 Mar, 2023",
         dueDate: "06 Apr, 2023",
         invoice_amount: 381.76,
         status: 'Paid',
         billing_address: {
-            full_name: 'Themesbrand',
+            full_name: 'raymond',
             address: '5114 Adipiscing St. Puno United States 46782',
             phone: '(926) 817-7835',
             tax: '123456789'
@@ -59,8 +59,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789'
         },
         order_summary: {
@@ -115,8 +115,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -164,8 +164,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -227,8 +227,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -283,8 +283,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -339,8 +339,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -389,8 +389,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -452,8 +452,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -515,8 +515,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -564,8 +564,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
@@ -620,8 +620,8 @@ var Invoices = [
         },
         company_details: {
             legal_registration_no: "987654",
-            email: 'steex@themesbrand.com',
-            website: 'www.themesbrand.com',
+            email: 'steex@raymond.com',
+            website: 'www.raymond.com',
             contact_no: '+(01) 234 6789',
         },
         order_summary: {
