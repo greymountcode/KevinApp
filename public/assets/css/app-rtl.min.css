@@ -1,5 +1,5 @@
 /*
-Template Name: Admiria - Admin & Dashboard Template
+Template Name: 
 Author: raymond
 Version: 3.2.0
 Website: https://raymond.com/

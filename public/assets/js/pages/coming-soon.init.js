@@ -1,5 +1,5 @@
 /*
-Template Name: Admiria - Admin & Dashboard Template
+Template Name: 
 Author: raymond
 Website: https://raymond.com/
 Contact: raymond@gmail.com
